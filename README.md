@@ -1,0 +1,2 @@
+# keyModelStore
+结合了MJExtension和YTKKeyValueStore，在YTKKeyValueStore中增加了根据key直接存储和读取数据模型的方法
